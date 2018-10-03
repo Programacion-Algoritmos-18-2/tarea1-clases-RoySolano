@@ -5,6 +5,8 @@
  */
 package ejercicio1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Salas
@@ -15,7 +17,9 @@ public class Ejercicio1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner entrada = new Scanner(System.in);
+        Estudiante persona = new Estudiante();
+        
     }
     
 }
